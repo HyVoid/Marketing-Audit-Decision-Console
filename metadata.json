@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Audit Decision Console",
+  "description": "An interactive marketing ROI authenticity audit system that connects Google Ads, GA4, GSC, and CRM Leads to uncover wastage and optimization points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
