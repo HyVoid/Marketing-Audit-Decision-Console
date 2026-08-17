@@ -8,7 +8,7 @@
 
 > ## **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser** → HTML live demo *(coming soon)*
+> 🌐 **Open in Browser** → [*HTML live demo*](https://hyvoid.github.io/Marketing-Audit-Decision-Console/)
 >
 > 📥 **Download Excel** → GitHub Release / Gumroad *(coming soon)*
 
