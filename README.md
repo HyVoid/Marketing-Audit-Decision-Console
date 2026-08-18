@@ -14,22 +14,6 @@
 
 ---
 
-## Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-*Executive audit dashboard showing reported conversions, audited leads, attribution leakage, real CPA, and real ROAS in a single operational view.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-*Calculation engine displaying campaign-level attribution reconciliation, waste detection, and prioritized optimization actions.*
-
----
-
 ## What It Helps You Track
 
 * Reported advertising conversions versus CRM-confirmed business outcomes.
