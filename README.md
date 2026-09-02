@@ -12,7 +12,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 >
 > 🌐 **Open in Browser** → [*HTML live demo*](https://hyvoid.github.io/Marketing-Audit-Decision-Console/)
 >
-> 📥 **Download Excel** → GitHub Release / Gumroad *(coming soon)*
+> 📥 **Download Excel** → GitHub Release / [Website](https://www.theseusworkshop.com/) *(coming soon)*
 
 ---
 
