@@ -28,7 +28,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# Why I Built This
+## Why I Built This
 
 I originally built this framework after repeatedly encountering the same analytical failure in local service businesses, agencies, and small marketing teams: everyone optimized marketing campaigns using numbers that were technically correct but operationally false.
 
