@@ -29,7 +29,7 @@ Probieren Sie die Browser-Version kostenlos aus. Wenn Sie die Excel-Version ben√
 
 ---
 
-# Warum ich dies gebaut habe
+## Warum ich dies gebaut habe
 
 Ich baute dieses Framework urspr√ºnglich, nachdem ich wiederholt denselben analytischen Fehler in lokalen Dienstleistungsunternehmen, Agenturen und kleinen Marketingteams erlebt hatte: jeder optimierte Marketingkampagnen mit Zahlen, die technisch korrekt, aber betrieblich falsch waren.
 
