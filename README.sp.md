@@ -29,7 +29,7 @@ Prueba la versión de navegador gratis. Si necesitas la versión de Excel, puede
 
 ---
 
-# Por qué construí esto
+## Por qué construí esto
 
 Construí este marco originalmente después de encontrar repetidamente el mismo fracaso analítico en negocios de servicios locales, agencias y pequeños equipos de marketing: todos optimizaban las campañas de marketing usando números técnicamente correctos pero operativamente falsos.
 
