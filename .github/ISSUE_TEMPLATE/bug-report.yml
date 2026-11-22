@@ -1,0 +1,103 @@
+name: Bug report / repository correction
+description: Report a reproducible technical defect or public repository correction for Marketing Audit & Decision Console.
+  General questions and ideas belong in central Discussions.
+title: '[Bug] Marketing Audit & Decision Console'
+body:
+- type: markdown
+  attributes:
+    value: Report one reproducible technical issue per submission. Do not attach original workbooks or production exports.
+      A small synthetic example is usually sufficient.
+- type: dropdown
+  id: problem_area
+  attributes:
+    label: Workflow area
+    description: Choose the closest part of the tool or repository.
+    options:
+    - Google Ads campaign / search-term import
+    - GA4 event and conversion reconciliation
+    - Search Console query / page mapping
+    - CRM lead identity matching and qualification
+    - Duplicate, invalid, or disqualified conversion handling
+    - Real CPA, ROAS, or revenue attribution
+    - Paid / organic overlap and channel attribution
+    - Budget waste and optimization recommendations
+    - CSV parsing, date range, or currency normalization
+    - Other
+  validations:
+    required: true
+- type: dropdown
+  id: environment
+  attributes:
+    label: Where did the issue occur?
+    description: Choose the closest environment.
+    options:
+    - Browser-based tool / web demo
+    - Microsoft Excel for Microsoft 365
+    - Microsoft Excel 2021
+    - Google Sheets preview
+    - GitHub profile / Markdown page
+    - Other / not sure
+  validations:
+    required: true
+- type: input
+  id: version
+  attributes:
+    label: Version / environment details
+    description: Provide workbook version, release / commit, browser, Excel build, or exact page / section when relevant.
+    placeholder: e.g. release tag / commit; Excel 365 build
+  validations:
+    required: false
+- type: input
+  id: summary
+  attributes:
+    label: Issue summary
+    description: A concise title describing the defect or correction.
+    placeholder: e.g. Shipment-level allocation does not reconcile to source total
+  validations:
+    required: true
+- type: textarea
+  id: expected_actual
+  attributes:
+    label: Expected result and actual result
+    description: Explain what should happen and what happened instead. Identify the affected metric, output, sheet, field,
+      or page section.
+    placeholder: 'Expected: ...
+
+      Actual: ...'
+  validations:
+    required: true
+- type: textarea
+  id: steps
+  attributes:
+    label: Steps to reproduce
+    description: List the smallest sequence that reproduces the issue, including relevant assumptions and settings.
+    placeholder: '1. Open ...
+
+      2. Enter synthetic values ...
+
+      3. Review ...'
+  validations:
+    required: true
+- type: textarea
+  id: safe_example
+  attributes:
+    label: Synthetic example / proposed correction
+    description: Use synthetic campaign IDs, invented search terms, dummy GA4 events, and fictional CRM lead stages / revenue.
+      Show the expected qualified lead or revenue attribution. Do not include raw ad account exports or identifiable lead
+      records. Do not paste personal, confidential, or production data. Do not attach original exports or workbooks.
+    placeholder: 'Synthetic inputs or affected public text: ...
+
+      Expected result: ...
+
+      Actual result: ...'
+  validations:
+    required: true
+- type: checkboxes
+  id: privacy_check
+  attributes:
+    label: Privacy confirmation
+    options:
+    - label: I have removed personal, confidential, and production data and have used only synthetic or public-safe information.
+      required: true
+  validations:
+    required: true
